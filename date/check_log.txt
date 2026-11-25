@@ -1,0 +1,15 @@
+=== 2026-11-25 08:19 ===
+Prima verificare (comanda add) pentru cele 5 produse.
+
+=== 2026-11-25 09:48 ===
+[1] Solenoid - Mircea Cartarescu
+  119.00 RON
+[2] Lego Classic. Caramizi transparente creative
+  166.90 RON  [stoc epuizat]
+[3] Lego Creator: Buchet de tradafiri
+  351.90 RON
+[4] Catan. Jocul de baza
+  193.00 RON  [stoc epuizat]
+[5] Catan. Big Box
+  365.00 RON
+

@@ -114,7 +114,7 @@ Dacă `add` spune că nu găsește prețul:
 ## Date colectate
 
 Am lăsat programul să ruleze automat de două ori pe zi (09:47 și 20:47), din 25 noiembrie
-până pe 9 decembrie 2026. Am urmărit 8 produse de pe libris.ro:
+până pe 9 decembrie 2026. Am urmărit 10 produse de pe libris.ro:
 cărți, seturi LEGO și jocuri de societate. Am prins și perioada de Black Friday.
 
 | Fișier | Conținut |

@@ -117,6 +117,19 @@ Am lăsat programul să ruleze automat de două ori pe zi (09:47 și 20:47), din
 până pe 9 decembrie 2026. Am urmărit 10 produse de pe libris.ro:
 cărți, seturi LEGO și jocuri de societate. Am prins și perioada de Black Friday.
 
+Lista de produse s-a schimbat de două ori pe parcurs:
+
+- **25 noiembrie:** am pornit cu 5 produse, dar două dintre ele (LEGO Classic și Catan) erau
+  epuizate, iar produsele fără stoc rareori își schimbă prețul. Am mai adăugat câteva în stoc:
+  Catan Duelul, Atomic Habits și Dixit.
+- **27 noiembrie:** după primele zile niciun preț nu se schimbase, nici de Black Friday
+  (Libris a oferit vouchere și puncte de fidelitate, nu reduceri pe produse). Am adăugat două
+  cărți de Matt Haig, „autorul lunii” la Libris, cu 20% reducere în noiembrie. Când se termină
+  promoția, prețul ar trebui să crească la loc, ceea ce testează urmărirea schimbărilor de preț.
+
+Produsele adăugate mai târziu au de aceea un istoric mai scurt. Data adăugării fiecăruia e
+în câmpul `created_at` din tabela `products`.
+
 | Fișier | Conținut |
 |---|---|
 | `date/prices.db` | baza de date cu tot istoricul |

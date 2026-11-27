@@ -114,10 +114,10 @@ Dacă `add` spune că nu găsește prețul:
 ## Date colectate
 
 Am lăsat programul să ruleze automat de două ori pe zi (09:47 și 20:47), din 25 noiembrie
-până pe 9 decembrie 2026. Am urmărit 10 produse de pe libris.ro:
-cărți, seturi LEGO și jocuri de societate. Am prins și perioada de Black Friday.
+până pe 9 decembrie 2026. Am urmărit 13 produse de pe libris.ro și dedeman.ro:
+cărți, seturi LEGO, jocuri de societate și câteva produse pentru casă. Am prins și perioada de Black Friday.
 
-Lista de produse s-a schimbat de două ori pe parcurs:
+Lista de produse s-a schimbat de câteva ori pe parcurs:
 
 - **25 noiembrie:** am pornit cu 5 produse, dar două dintre ele (LEGO Classic și Catan) erau
   epuizate, iar produsele fără stoc rareori își schimbă prețul. Am mai adăugat câteva în stoc:
@@ -126,6 +126,12 @@ Lista de produse s-a schimbat de două ori pe parcurs:
   (Libris a oferit vouchere și puncte de fidelitate, nu reduceri pe produse). Am adăugat două
   cărți de Matt Haig, „autorul lunii” la Libris, cu 20% reducere în noiembrie. Când se termină
   promoția, prețul ar trebui să crească la loc, ceea ce testează urmărirea schimbărilor de preț.
+- **27 noiembrie:** am căutat și un magazin cu reduceri reale de Black Friday și am găsit
+  Dedeman. Am adăugat trei produse reduse (o cameră Tapo, un espressor și un brad artificial).
+  Pagina fiecărui produs arată și prețul vechi, și data până la care e valabilă oferta
+  (`priceValidUntil`: 30 noiembrie), deci ar trebui să vedem prețul revenind după aceea.
+  La Dedeman prețul e citit din meta tag-uri, nu din JSON-LD, deci proiectul folosește
+  două dintre cele trei metode de extragere.
 
 Produsele adăugate mai târziu au de aceea un istoric mai scurt. Data adăugării fiecăruia e
 în câmpul `created_at` din tabela `products`.
@@ -145,8 +151,9 @@ python tracker.py --db date/prices.db list
 python tracker.py --db date/prices.db history 1
 ```
 
-În timpul colectării, doar Libris a răspuns normal. Celelalte magazine pe care le-am încercat
-(eMAG, PC Garage, Cărturești, elefant.ro, evoMAG, CEL.ro, Altex) au refuzat cererile automate:
+În timpul colectării, doar Libris și Dedeman au răspuns normal. Celelalte magazine pe care
+le-am încercat (eMAG, PC Garage, Cărturești, elefant.ro, evoMAG, CEL.ro, Altex, Vexio, Flanco,
+Sportisimo, Notino) au refuzat cererile automate:
 captcha, Cloudflare, HTTP 429 sau niciun răspuns.
 
 Verificarea programată e în `tools/run_check.sh`: rulează `check`, adaugă ieșirea în

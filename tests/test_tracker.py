@@ -71,6 +71,14 @@ class TestParseProduct(unittest.TestCase):
         p = parse_product(META_PAGE)
         self.assertEqual((p.name, p.price, p.source), ("Carte Y", 45.5, "meta"))
 
+    def test_meta_title_without_store_name(self):
+        page = """<html><head>
+        <meta property="og:title" content="Brad artificial de Craciun, 180 cm | Dedeman">
+        </head><body><meta itemprop="price" content="300.00"></body></html>"""
+        p = parse_product(page)
+        self.assertEqual((p.name, p.price, p.source),
+                         ("Brad artificial de Craciun, 180 cm", 300.0, "meta"))
+
     def test_css_with_sup_decimals(self):
         p = parse_product(EMAG_STYLE_PAGE, "https://www.emag.ro/telefon-z/pd/ABC/")
         self.assertEqual((p.name, p.price, p.source), ("Telefon Z 128GB", 1299.99, "css"))

@@ -246,6 +246,9 @@ def parse_product(html: str, url: str = "") -> ProductData:
             h1.get_text(" ", strip=True) if h1
             else (soup.title.get_text(strip=True) if soup.title else url)
         )
+    # Titlurile paginilor (og:title) conțin des și numele magazinului: "Produs | Dedeman".
+    if " | " in product.name:
+        product.name = product.name.rsplit(" | ", 1)[0].strip()
     return product
 
 

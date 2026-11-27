@@ -5,47 +5,60 @@ id_produs,nume,url,pret,moneda,in_stoc,data
 1,Solenoid - Mircea Cartarescu,https://www.libris.ro/carte/solenoid-mircea-cartarescu/46514293,119.0,RON,1,2026-11-26T09:47:53
 1,Solenoid - Mircea Cartarescu,https://www.libris.ro/carte/solenoid-mircea-cartarescu/46514293,119.0,RON,1,2026-11-26T20:48:15
 1,Solenoid - Mircea Cartarescu,https://www.libris.ro/carte/solenoid-mircea-cartarescu/46514293,119.0,RON,1,2026-11-27T09:48:16
+1,Solenoid - Mircea Cartarescu,https://www.libris.ro/carte/solenoid-mircea-cartarescu/46514293,119.0,RON,1,2026-11-27T20:48:56
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-25T08:20:28
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-25T09:48:43
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-25T20:47:50
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-26T09:47:58
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-26T20:48:19
 2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-27T09:48:20
+2,Lego Classic. Caramizi transparente creative,https://www.libris.ro/lego-classic-caramizi-transparente-creative-LEG-11013--p21558928.html,166.9,RON,0,2026-11-27T20:49:01
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-25T08:20:30
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-25T09:48:47
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-25T20:47:54
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-26T09:48:01
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-26T20:48:23
 3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-27T09:48:24
+3,Lego Creator: Buchet de tradafiri,https://www.libris.ro/lego-creator-buchet-de-tradafiri-LEG-10328--p38412234.html,351.9,RON,1,2026-11-27T20:49:05
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-25T08:21:48
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-25T09:48:51
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-25T20:47:58
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-26T09:48:05
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-26T20:48:27
 4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-27T09:48:27
+4,Catan. Jocul de baza,https://www.libris.ro/joc/catan-jocul-de-baza/995788,193.0,RON,0,2026-11-27T20:49:09
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-25T08:21:49
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-25T09:48:55
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-25T20:48:02
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-26T09:48:09
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-26T20:48:31
 5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-27T09:48:31
+5,Catan. Big Box,https://www.libris.ro/joc/catan-big-box/42455546,365.0,RON,1,2026-11-27T20:49:13
 6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-25T10:52:04
 6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-25T20:48:06
 6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-26T09:48:13
 6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-26T20:48:35
 6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-27T09:48:35
+6,Catan. Duelul,https://www.libris.ro/joc/catan-duelul/28595189,113.0,RON,1,2026-11-27T20:49:16
 7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-25T10:52:58
 7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-25T20:48:10
 7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-26T09:48:17
 7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-26T20:48:39
 7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-27T09:48:39
+7,Atomic Habits - James Clear,https://www.libris.ro/atomic-habits-james-clear-TRE978-606-789-174-4--p10904880.html,71.25,RON,1,2026-11-27T20:49:21
 8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-25T10:53:00
 8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-25T20:48:14
 8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-26T09:48:21
 8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-26T20:48:43
 8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-27T09:48:43
+8,Dixit. Joc de societate,https://www.libris.ro/joc/dixit-joc-de-societate/28594300,164.9,RON,1,2026-11-27T20:49:25
 9,Biblioteca de la Miezul Noptii - Matt Haig,https://www.libris.ro/biblioteca-de-la-miezul-noptii-matt-haig-NEM978-606-43-1124-5--p27426651.html,55.99,RON,1,2026-11-27T11:24:49
+9,Biblioteca de la Miezul Noptii - Matt Haig,https://www.libris.ro/biblioteca-de-la-miezul-noptii-matt-haig-NEM978-606-43-1124-5--p27426651.html,55.99,RON,1,2026-11-27T20:49:29
 10,A Boy Called Christmas - Matt Haig,https://www.libris.ro/boy-called-christmas-BRT9781782118268--p10704890.html,46.02,RON,1,2026-11-27T11:24:51
+10,A Boy Called Christmas - Matt Haig,https://www.libris.ro/boy-called-christmas-BRT9781782118268--p10704890.html,46.02,RON,1,2026-11-27T20:49:33
 11,"Camera de supraveghere smart / inteligenta Tapo TC43, 5 MP, 3K, Pan/Tilt, microfon, difuzor, alb",https://www.dedeman.ro/ro/camera-de-supraveghere-smart/-inteligenta-tapo-tc43-5-mp-3k-pan/tilt-microfon-difuzor-alb/p/1107939,189.0,RON,1,2026-11-27T11:31:49
+11,"Camera de supraveghere smart / inteligenta Tapo TC43, 5 MP, 3K, Pan/Tilt, microfon, difuzor, alb",https://www.dedeman.ro/ro/camera-de-supraveghere-smart/-inteligenta-tapo-tc43-5-mp-3k-pan/tilt-microfon-difuzor-alb/p/1107939,189.0,RON,1,2026-11-27T20:49:35
 12,"Espressor cafea, Samus Perfection, automat, rasnita incorporata, cafea boabe, 15 bar, 1350 W, capacitate 1.5 litri, capacitate rasnita 300 g, rezervor lapte 300 ml, 9 tipuri de bauturi, control touch, protectie supraincalzire, negru",https://www.dedeman.ro/ro/espressor-cafea-samus-perfection-automat-rasnita-incorporata-cafea-boabe-15-bar-1350-w-capacitate-1-5-litri-capacitate-rasnita-300-g-rezervor-lapte-300-ml-9-tipuri-de-bauturi-control-touch-protectie-supraincalzire-negru/p/3049919,1298.0,RON,1,2026-11-27T11:31:51
+12,"Espressor cafea, Samus Perfection, automat, rasnita incorporata, cafea boabe, 15 bar, 1350 W, capacitate 1.5 litri, capacitate rasnita 300 g, rezervor lapte 300 ml, 9 tipuri de bauturi, control touch, protectie supraincalzire, negru",https://www.dedeman.ro/ro/espressor-cafea-samus-perfection-automat-rasnita-incorporata-cafea-boabe-15-bar-1350-w-capacitate-1-5-litri-capacitate-rasnita-300-g-rezervor-lapte-300-ml-9-tipuri-de-bauturi-control-touch-protectie-supraincalzire-negru/p/3049919,1298.0,RON,1,2026-11-27T20:49:39
 13,"Brad artificial de Craciun, 772-180, cu aspect de zapada, fructe rosii si conuri de pin, verde, 180 cm, suport inclus",https://www.dedeman.ro/ro/brad-artificial-de-craciun-772-180-cu-aspect-de-zapada-fructe-rosii-si-conuri-de-pin-verde-180-cm-suport-inclus/p/8124547,300.0,RON,1,2026-11-27T11:31:53
+13,"Brad artificial de Craciun, 772-180, cu aspect de zapada, fructe rosii si conuri de pin, verde, 180 cm, suport inclus",https://www.dedeman.ro/ro/brad-artificial-de-craciun-772-180-cu-aspect-de-zapada-fructe-rosii-si-conuri-de-pin-verde-180-cm-suport-inclus/p/8124547,300.0,RON,1,2026-11-27T20:49:43

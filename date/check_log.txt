@@ -113,3 +113,31 @@ Prima verificare (comanda add) pentru cele 5 produse.
 [13] Brad artificial de Craciun, 772-180, cu aspect de zapada, fructe rosii si conuri de pin, verde, 180 cm, suport inclus
   300.00 RON
 
+=== 2026-11-28 09:48 ===
+[1] Solenoid - Mircea Cartarescu
+  119.00 RON
+[2] Lego Classic. Caramizi transparente creative
+  166.90 RON  [stoc epuizat]
+[3] Lego Creator: Buchet de tradafiri
+  351.90 RON
+[4] Catan. Jocul de baza
+  193.00 RON  [stoc epuizat]
+[5] Catan. Big Box
+  365.00 RON
+[6] Catan. Duelul
+  113.00 RON
+[7] Atomic Habits - James Clear
+  71.25 RON
+[8] Dixit. Joc de societate
+  164.90 RON
+[9] Biblioteca de la Miezul Noptii - Matt Haig
+  55.99 RON
+[10] A Boy Called Christmas - Matt Haig
+  46.02 RON
+[11] Camera de supraveghere smart / inteligenta Tapo TC43, 5 MP, 3K, Pan/Tilt, microfon, difuzor, alb
+  189.00 RON
+[12] Espressor cafea, Samus Perfection, automat, rasnita incorporata, cafea boabe, 15 bar, 1350 W, capacitate 1.5 litri, capacitate rasnita 300 g, rezervor lapte 300 ml, 9 tipuri de bauturi, control touch, protectie supraincalzire, negru
+  1298.00 RON
+[13] Brad artificial de Craciun, 772-180, cu aspect de zapada, fructe rosii si conuri de pin, verde, 180 cm, suport inclus
+  300.00 RON
+
